@@ -1,0 +1,53 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  img {
+    max-height: 100px;
+    object-fit: cover;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .d-flex {
+    display: flex;
+  }
+  
+  .gap-3 {
+    gap: 1rem;
+  }
+  
+  .my-3 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    width: 100%;
+  }
+  
+  table {
+    margin-top: 1.5rem;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  .icon {
+    width: 32px;
+    height: 32px;
+  }
+  
